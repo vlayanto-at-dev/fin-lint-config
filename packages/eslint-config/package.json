@@ -1,0 +1,21 @@
+{
+  "name": "@fin/eslint-config",
+  "version": "0.1.0",
+  "description": "Customized eslint",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Vorifin Layanto <vlayanto.at.dev@gmail.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0"
+  }
+}
